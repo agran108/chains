@@ -7,8 +7,8 @@
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "BNB",
-    "symbol": "BNB",
+    "name": "TXL",
+    "symbol": "TXL",
     "decimals": 18
   },
   "infoURL": "https://autobahn.network",
